@@ -1,0 +1,24 @@
+# Environment files
+.env
+
+# Wallet JSON files
+*.json
+
+# Specific wallet files
+solana_wallet.json
+other_wallet.json
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+
+# Editor-specific files
+.vscode/
+.idea/
